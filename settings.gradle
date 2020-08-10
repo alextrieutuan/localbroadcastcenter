@@ -1,0 +1,3 @@
+include ':local-broadcast-center'
+include ':app'
+rootProject.name = "local-broadcast-demo"
